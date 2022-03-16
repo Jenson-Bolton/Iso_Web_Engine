@@ -1,0 +1,9 @@
+{
+  "tile-width": 32,
+  "tile-height": 16,
+  "image-width": 32,
+  "image-height": 16,
+  "name": "Error",
+  "desc": "Unloaded or placeholder texture.",
+  "tile-map": false
+}

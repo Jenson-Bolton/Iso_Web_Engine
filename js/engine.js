@@ -22,6 +22,7 @@ function carToIso(pVector2D) {
     return new Vector2D(x, y);
 }
 
+/*
 function tick() {
     var now = Date.now();
     var dt = now - lastUpdate;
@@ -39,3 +40,4 @@ class Engine {
         this.ctx = pCtx
     }
 }
+*/

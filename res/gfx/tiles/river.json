@@ -1,0 +1,19 @@
+{
+  "tile-width": 32,
+  "tile-height": 16,
+  "image-width": 64,
+  "image-height": 64,
+  "name": "River",
+  "desc": "Flowing River.",
+  "tile-map": true,
+  "map": [
+    {"direction": "ns"},
+    {"direction": "ns"},
+    {"direction": "ew"},
+    {"direction": "ew"},
+    {"direction": "nw"},
+    {"direction": "nw"},
+    {"direction": "se"},
+    {"direction": "se"}
+  ]
+}
